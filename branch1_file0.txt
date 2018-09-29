@@ -1,0 +1,4 @@
+modified file v2.0
+
+// commit without git add
+test git commit -a -m "comment"

@@ -4,3 +4,5 @@ modified file v2.0
 test git commit -a -m "comment"
 
 branch 1 fixed
+
+conflict-br fix

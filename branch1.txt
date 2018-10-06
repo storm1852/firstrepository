@@ -5,4 +5,8 @@ test git commit -a -m "comment"
 
 branch 1 fixed
 
+
 master fix
+
+conflict-br fix
+
